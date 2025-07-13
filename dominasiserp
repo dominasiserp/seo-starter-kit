@@ -1,0 +1,7 @@
+git clone https://github.com/dominasiserp/seo-starter-kit.git
+cd seo-starter-kit
+# Add the files and folders mentioned above
+git add .
+git commit -m "Initial commit with SEO checklist and scraper"
+git push origin main
+
